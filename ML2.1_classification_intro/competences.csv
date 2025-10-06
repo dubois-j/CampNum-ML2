@@ -1,0 +1,3 @@
+Intitulé,Critère,Preuve de travail
+Entrainer un modèle de classification et faire des prédictions,Le modèle de classification produit des prédictions meilleures que l'aléatoire sur des données non observées,Le notebook a été complété et le code s'exécute et produit la sortie attendue
+Choisir les bonnes métriques d'évaluation pour un problème de classification,Faire bouger le seuil de décision du classifieur pour obtenir le trade-off precision/recall voulu,Le mémo a été rempli et contient les bonnes réponses
